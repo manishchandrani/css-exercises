@@ -1,0 +1,15 @@
+.oddnumber {
+  background-color: rgb(255, 182, 193); 
+}
+.oddnumber.bigger{
+    font-size: 24px;
+}
+#blueElement{
+    color: rgb(7, 0, 221);
+    font-size: 24px;
+}
+#greenElement{
+    background-color: rgb(47, 206, 103);
+    font-size: 24px;
+    font-weight: bold;
+}
